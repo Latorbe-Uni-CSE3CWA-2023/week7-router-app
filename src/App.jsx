@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Routes, Route, Navigate } from "react-router";
 import { Container } from "react-bootstrap";
